@@ -1,4 +1,4 @@
-case 6: 
+        case 6: 
             cout << "Masukkan alas dan tinggi jajar genjang: ";
             cin >> alas >> tinggi;
             luas = alas * tinggi;
