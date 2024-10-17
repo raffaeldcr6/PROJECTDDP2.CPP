@@ -121,6 +121,3 @@ int main() {
 
     return 0;
 }
-            keliling = alas1 + alas2 + sisi1 + sisi2;
-            cout << "Keliling Trapesium-nya adalah: " << keliling << endl;
-            break;
