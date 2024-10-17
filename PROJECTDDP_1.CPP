@@ -14,6 +14,7 @@ void tampilkanMenu(){
   cout << "7. Belah Ketupat" << endl;
   cout << "8. Layang-layang" << endl;
   cout << "9. Selesai" << endl;
+  cout << "Pilih bangunan (1-9): ";
 }
 
 void hitungBangunan (int pilihan){
